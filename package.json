@@ -1,0 +1,12 @@
+{
+  "name": "ai-retry-wrapper",
+  "version": "1.0.0",
+  "description": "Retry logic with exponential backoff, circuit breaker and fallback model for LLM API calls",
+  "main": "src/retry.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
